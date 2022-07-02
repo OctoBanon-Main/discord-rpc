@@ -20,10 +20,6 @@
 </div>
 
 
-## Warning
-Argument parser will be rewrited in next update and old arguments maybe will unavalible or renamed
-
-
 ## How use this?
 - Install pypresence with command:
 ```bash
